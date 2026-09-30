@@ -52,9 +52,5 @@ node_modules
 # Ignore gems installed locally
 /vendor
 
-# Personal contribution tracking notes (not project docs)
-CONTRIBUTION_ROADMAP.md
-CONTRIBUTION_ROADMAP-pt.md
-
 # Package lock (project uses yarn)
 client/package-lock.json
